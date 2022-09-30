@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "reto_programacion_orientada_objetos/1.0.0": {
+        "runtime": {
+          "reto_programacion_orientada_objetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "reto_programacion_orientada_objetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

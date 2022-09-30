@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reto_programacion_orientada_objetos", "reto_programacion_orientada_objetos\reto_programacion_orientada_objetos.csproj", "{CDB9A8B7-F0B4-4654-83D8-8B6B4633DE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB9A8B7-F0B4-4654-83D8-8B6B4633DE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB9A8B7-F0B4-4654-83D8-8B6B4633DE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB9A8B7-F0B4-4654-83D8-8B6B4633DE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB9A8B7-F0B4-4654-83D8-8B6B4633DE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C1FCDA2-6F2D-49F3-8696-ACAE8A0C9568}
+	EndGlobalSection
+EndGlobal
